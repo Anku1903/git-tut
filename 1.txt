@@ -1,2 +1,3 @@
 i initialized git repo.
 
+feature - 1 - planning
