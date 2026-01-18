@@ -10,4 +10,4 @@ feature - 1 - Buf FIXED
 
 feature - 1 - origin/main - hotfix
 
-feature - 2 - planning
+feature - 2 UI design
